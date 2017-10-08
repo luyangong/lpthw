@@ -23,6 +23,5 @@ class Child(Test, Boy):
 
 dad = Parent()
 son = Child()
-
 dad.altered()
 son.altered()
